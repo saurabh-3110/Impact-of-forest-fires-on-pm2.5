@@ -1,7 +1,16 @@
-# Assessing the Relationship Between Forest Fires and PM2.5 Levels in India 
-
-## 📝 Project Overview
+# 🔥💨 Assessing the Relationship Between Forest Fires and PM2.5 Levels in India 🇮🇳
 This repository contains the data, code, and documentation for the research project titled "Assessing the Relationship Between Forest Fires and PM2.5 Levels in India", conducted as a term paper for EES 502 (Comtemporary Environmental Issues) at the Indian Institute of Science Education and Research, Bhopal. The study investigates the spatial and temporal relationships between forest fires and PM2.5 concentrations across three regions in India: Central India (Madhya Pradesh and Chhattisgarh), Northeast India (Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Tripura), and the Northern Himalayan region (Uttarakhand and Himachal Pradesh). The analysis leverages high-resolution satellite datasets and statistical methods to quantify fire-PM2.5 dynamics, identify regional variations, and inform air quality and fire management strategies under frameworks like the National Clean Air Programme (NCAP).
+
+## 📋 Table of Contents
+* [Data Sources](#-data-sources)
+* [Methodology](#️-methodology)
+* [Key Findings](#-key-findings)
+* [Policy Implications](#-policy-implications)
+* [Limitations](#️-limitations)
+* [Future Directions](#-future-directions)
+* [References](#-references)
+* [Contact](#-contact)
+
 
 ## 📊 Data Sources
 
@@ -46,8 +55,3 @@ The study employs:
 ## 📚 References
 
 Refer to `Project_report.pdf` for the full list of references cited in the study.
-
-## 📧 Contact
-
-For questions, contact Saurabh Toraskar at [saurabhtoraskar31@gmail.com](mailto:saurabhtoraskar31@gmail.com).
-Use code with caution.
